@@ -1,0 +1,46 @@
+img {
+  width: 100%;
+  z-index: 3;
+}
+
+#scratch-8 {
+  display: block;
+  position: absolute;
+  top: 500rem;
+  left: 20%;
+  margin-top: 30px;
+}
+#scratch-9{
+  display: block;
+  position: absolute;
+  top: 612rem;
+  left: 20%;
+  margin-top: 30px;
+}
+#scratch-6 {
+  display: block;
+  position: absolute;
+  top: 724rem;
+  left: 20%;
+  margin-top: 30px;
+}
+#scratch-10 {
+  display: block;
+  position: absolute;
+  top: 836rem;
+  left: 20%;
+  margin-top: 30px;
+}
+#scratch-7 {
+  display: block;
+  position: absolute;
+  top: 948rem;
+  left: 20%;
+  margin-top: 30px;
+}
+.btn{
+  display: block;
+  position:absolute;
+  left: 25%;
+  top:1858rem
+}
